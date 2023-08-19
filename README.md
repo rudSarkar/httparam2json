@@ -6,7 +6,7 @@
 go install https://github.com/rudSarkar/httparam2json@latest
 ```
 
-#### Useages:
+#### Usage:
 
 ```bash
 $ httparam2json "fname=firstname&lname=lastname" | jq
