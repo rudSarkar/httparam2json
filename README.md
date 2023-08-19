@@ -1,5 +1,11 @@
 # httparam2json
 
+#### Install:
+
+```bash
+go install https://github.com/rudSarkar/httparam2json@latest
+```
+
 #### Useages:
 
 ```bash
